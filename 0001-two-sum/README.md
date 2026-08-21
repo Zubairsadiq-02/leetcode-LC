@@ -46,7 +46,7 @@ Concept used here is <h3><ul> BRUTE FORCE
 <P>CONCEPT OF HASH MAP : It stores data in KEY-VALUE pairs.
 By hash map just by looping once we can store the number we already seen along with their indices i.e key-value pair.</P>
 <br>
-<img width="1100" height="619" alt="LC-1 1" src="https://github.com/user-attachments/assets/e11b5ac5-7d6e-4661-9cbd-893721d3d5f1" />
+<img width="400" height="200" alt="LC-1 1" src="https://github.com/user-attachments/assets/e11b5ac5-7d6e-4661-9cbd-893721d3d5f1" />
 <br>
 <img width="852" height="465" alt="LC-1" src="https://github.com/user-attachments/assets/9182a413-5861-451b-bac8-c834c968ca91" />
 
