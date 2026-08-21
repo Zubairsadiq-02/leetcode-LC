@@ -49,3 +49,14 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+<h3>Solution:</h3>
+Here concept used is <h4>TWO POINTER</h4> <br>
+<img width="726" height="176" alt="LC-26 2" src="https://github.com/user-attachments/assets/a6f8a31f-5663-4cca-a0f4-163ffd0ef067" />
+<br> <img width="835" height="251" alt="LC-26 arr" src="https://github.com/user-attachments/assets/9b5434f5-fcfb-46a3-b5ff-05709849433d" /> <br>
+<img width="771" height="631" alt="LC-26 1" src="https://github.com/user-attachments/assets/3681a9cc-5d60-4d26-b418-7c4170382cee" /> <br>
+
+
+
+
+
