@@ -5,7 +5,8 @@
 <p>
   Two pointers are taken in which <bold>I</bold> scans the array
 <bold>K</bold> stores the next valid element.
-</p><br> <img width="700" height="200" alt="LC-27 1" src="https://github.com/ser-attachments/assets/090afb7b-8694-4b4c-b4cb-523111b2db48" />
+</p> <br> <img width="900" height="200" alt="LC-27 1" src="https://github.com/user-attachments/assets/bf8eb776-3dd5-437d-ad04-60547b22069c" />
+
 <br>
 <img width="800" height="600" alt="LC-27 2" src="https://github.com/user-attachments/assets/d92cc09d-5eb2-4e05-b64e-cd5ae4907184" />
 
