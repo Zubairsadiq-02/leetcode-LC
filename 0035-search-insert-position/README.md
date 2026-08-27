@@ -33,3 +33,9 @@
 	<li><code>nums</code> contains <strong>distinct</strong> values sorted in <strong>ascending</strong> order.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+<h2>SOLUTION:</h2>
+<h3>APPROACH :-</h3>
+This question is based on ninary search in which only binary search logic is used.
+<img width="847" height="232" alt="LC-35 2" src="https://github.com/user-attachments/assets/b636c377-6a45-4637-acab-a99d9e71ed9b" /> <br>
+<img width="847" height="632" alt="LC-35 1" src="https://github.com/user-attachments/assets/54502ac8-4a79-4d5f-8fc8-1a99f6125b19" />
+
