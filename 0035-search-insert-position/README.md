@@ -42,6 +42,6 @@ This question is based on Binary search in which only binary search logic is use
 An efficient search algorithm that repeatedly halves the search space to find target values in sorted data in logarithmic time.
 
 
-<img width="847" height="232" alt="LC-35 2" src="https://github.com/user-attachments/assets/b636c377-6a45-4637-acab-a99d9e71ed9b" /> <br>
-<img width="847" height="632" alt="LC-35 1" src="https://github.com/user-attachments/assets/54502ac8-4a79-4d5f-8fc8-1a99f6125b19" />
+<img width="800" height="200" alt="LC-35 2" src="https://github.com/user-attachments/assets/b636c377-6a45-4637-acab-a99d9e71ed9b" /> <br>
+<img width="800" height="600" alt="LC-35 1" src="https://github.com/user-attachments/assets/54502ac8-4a79-4d5f-8fc8-1a99f6125b19" />
 
