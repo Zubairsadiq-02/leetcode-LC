@@ -34,6 +34,9 @@
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
 <h2>SOLUTION:</h2>
+<h3>TIME AND SPACE COMPLEXITY:</h3>
+TC :- O(log n)
+SC :- O(1) (Constant Space)
 <h3>APPROACH :-</h3>
 This question is based on Binary search in which only binary search logic is used.
 An efficient search algorithm that repeatedly halves the search space to find target values in sorted data in logarithmic time.
