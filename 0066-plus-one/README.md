@@ -41,6 +41,10 @@ Thus, the result should be [1,0].
 	<li><code>0 &lt;= digits[i] &lt;= 9</code></li>
 	<li><code>digits</code> does not contain any leading <code>0</code>&#39;s.</li>
 </ul>
-<h3>SOLUTION :-</h3>
+<h3>SOLUTION :-</h3><br>
+<img width="800" height="200" alt="LC-66 1" src="https://github.com/user-attachments/assets/6729c87c-e0d9-47ba-9f4a-d17de4db6088" />
+<br><img width="800" height="600" alt="LC-66 2" src="https://github.com/user-attachments/assets/3317ca54-9dad-46a9-a9b3-fee0ba37489f" />
+
+
 
 
